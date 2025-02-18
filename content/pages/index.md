@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
       - type: Button
-        label: Get started
+        label: Authenticate X
         altText: ''
         url: 'https://vireo.app.n8n.cloud/webhook/generate-auth-url'
         showIcon: false
